@@ -1,6 +1,5 @@
-### Nirekin's
 # UFCpack #1
-## (U)nciv (F)antasy (C)ivilization pack #1
+## Nirekin's (U)nciv (F)antasy (C)ivilization pack #1
 ---
 ![Preview](https://cdn.discordapp.com/attachments/556615339849416736/697388981201141760/UFCpack1SHORTER2.png)
 ---
